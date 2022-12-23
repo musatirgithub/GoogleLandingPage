@@ -1,4 +1,4 @@
-# [This is my version of Google Landing Page](https://musatirgithub.github.io/GoogleLandingPage/)
+# [This is my version of Google Landing Page](https://musatirgithub.github.io/GoogleLandingPage/index.html)
 <h3>Hi there ✋. In this project, I've replicated Google page.</h3>
 <ul>
   <li>I've used plain HTML and CSS for design,</li>
